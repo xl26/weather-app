@@ -25,4 +25,4 @@ This is a simple weather application built with React Native using Expo. It fetc
 3. **Install Expo app on your phone (IOS/Android)**
 4. **Start the app using expo simulator**
     npm start
-5. **Scan the QR Code from the IDE terminal**
+5. **Scan the QR Code from the IDE terminal using camera app**
